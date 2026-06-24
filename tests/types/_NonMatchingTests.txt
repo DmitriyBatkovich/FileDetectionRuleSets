@@ -20,6 +20,11 @@ notactuallylime-legacy.dll
 notactuallylime-legacy.ndll
 notactuallyfna.dll
 fna.dllwhoops
+NuclearEngine.dll.bak
+NuclearEngine_dll
+OtherNuclearEngine.dllx
+Assets/Engine/nuclear-engine.json.bak
+Assets/Engine/NuclearEngine_mark
 entry.dll
 libsentry.dl
 sentry.dl
