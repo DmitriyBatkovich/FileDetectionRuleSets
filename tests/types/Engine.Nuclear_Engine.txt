@@ -7,3 +7,6 @@ NuclearEngine.dll
 game/Assets/Engine/NuclearEngine.marker
 game/Assets/Engine/nuclear-engine.json
 game/NuclearEngine.dll
+/Engine/Binaries/NuclearRuntime.marker
+Engine/Binaries/NuclearRuntime.marker
+game/Engine/Binaries/NuclearRuntime.marker
