@@ -25,6 +25,7 @@ NuclearEngine_dll
 OtherNuclearEngine.dllx
 Assets/Engine/nuclear-engine.json.bak
 Assets/Engine/NuclearEngine_mark
+Engine/Binaries/NuclearRuntime.marker.bak
 entry.dll
 libsentry.dl
 sentry.dl
